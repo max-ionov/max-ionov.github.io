@@ -17,4 +17,7 @@ include: ['_pages']
 # Build settings
 markdown: kramdown
 
-gems: ['jekyll-gravatar']
+author:
+    gravatar_md5: 25629f0c8cc28f73be0c0777ed6f9571
+
+gems: []
