@@ -1,0 +1,72 @@
+
+body
+{
+	background-color: #eee;
+	font-family: "Open Sans", sans-serif;
+}
+
+html
+{
+	position: relative;
+	min-height: 100%;
+}
+
+#container
+{
+	padding: 10%;
+	padding-top: 2em;
+	width: 70%;
+}
+
+.gravatar {
+    border-radius: 50%;
+}
+
+.site-header {
+	color: 444;
+	font-variant: small-caps;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 2em;
+	padding-top: 1em;
+}
+
+h2 a {
+	color: inherit;
+	text-decoration: none;
+}
+
+h2 a:visited {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+h2 a:hover {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+h2 a:active {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+nav li {
+	display: block;
+	float: left;
+	margin-right: 1em;
+	font-size: large;
+}
+
+nav li:after {
+	content: ", "
+}
+
+nav li.last:after {
+	content: "."
+}
+
+td {
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.3em;
+}
