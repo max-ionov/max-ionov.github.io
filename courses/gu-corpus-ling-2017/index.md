@@ -4,8 +4,6 @@ title: Teaching — Corpus tools course materials
 course: Corpus tools
 ---
 
-{% assign pdf_files = site.static_files | where: "extname", ".pdf" %}
-
 {{ page.course }}:
 ==================
 
