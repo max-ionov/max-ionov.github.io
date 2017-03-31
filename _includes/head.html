@@ -15,4 +15,8 @@
 
   <script src="{{ "js/jquery.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "js/bootstrap.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
