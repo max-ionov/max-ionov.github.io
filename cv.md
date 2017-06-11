@@ -24,6 +24,11 @@ Work
 Goethe University Frankfurt, Applied Computational Linguistics group.\\
 Research assistant on the Linked Open Dictionaries project.
 
+#### 2016 — pres.
+
+Lomonosov Moscow State University, Department of Theoretical and Applied Linguistics.\\
+Lecturer.
+
 #### 2014 — 2016
 [News360.com news aggregation platform](http://news360.com/), NLP group.\\
 NLP developer.
