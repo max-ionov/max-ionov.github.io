@@ -6,8 +6,8 @@ title: Teaching
 Teaching
 ========
 
-I hold a lecturer position at <a target="_blank" href="http://www.msu.ru/en/">Moscow State University</a>, and also
-I occasionally teach courses at 
+I previously held a lecturer position at <a target="_blank" href="http://www.msu.ru/en/">Moscow State University</a>, and
+occasionally taught courses at 
 <a target="_blank" href="http://www.uni-frankfurt.de/">Goethe University Frankfurt</a>, and 
 <a target="_blank" href="https://www.hse.ru/en/">National Research University Higher School of Economics</a>.
 
