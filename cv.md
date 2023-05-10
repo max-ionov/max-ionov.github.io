@@ -19,12 +19,21 @@ Thesis: *Classification of web queries by their intent*, supervisor: Toldova S. 
 Work
 -----
 
-#### 2015 — pres.
+#### 2022 — pres.
+
+University of Cologne, Cologne Center for eHumanities.\\
+Research assistant on the Textdatenbank und Wörterbuch des Klassischen Maya project.
+
+University of Cologne, Department of Digital Humanities.\\
+Research assistant on the Postils Time Machine project.
+
+#### 2015 — 2022.
 
 Goethe University Frankfurt, Applied Computational Linguistics group.\\
-Research assistant on the Linked Open Dictionaries project.
+Research assistant on the Linked Open Dictionaries project.\\
+Research assistant on the Prêt-à-LLOD Project.
 
-#### 2016 — pres.
+#### 2016 — 2021.
 
 Lomonosov Moscow State University, Department of Theoretical and Applied Linguistics.\\
 Lecturer.
